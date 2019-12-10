@@ -24,3 +24,12 @@ And here is the flag Flag: `flag{3v0lv3_or_d13}`
 let's run dirsearch 
 
 ![dir](https://user-images.githubusercontent.com/34393428/70563574-7a3d4b80-1b5c-11ea-8d20-cf591045b1d6.png)
+
+And here we go 
+let's download .git and see what we have 
+
+![download](https://user-images.githubusercontent.com/34393428/70563927-2ed76d00-1b5d-11ea-8bec-f502bc9d6db9.png)
+![fck](https://user-images.githubusercontent.com/34393428/70564144-9ab9d580-1b5d-11ea-9ed6-bf3d50a52d54.png)
+We found `$secret_key = 'be607453caada6a05d00c0ea0057f733';` i have tried to submit the Secret Key but it was wrong 
+so i used hash analyzer be607453caada6a05d00c0ea0057f733	md5(md5) ->	`lifeafterdeath` and it's the flag 
+
