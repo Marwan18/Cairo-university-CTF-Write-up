@@ -16,7 +16,7 @@ By changing the request method to `HEAD` it will just ask for Response Headers w
 
 ![flag](https://user-images.githubusercontent.com/34393428/70562656-d4d5a800-1b5a-11ea-8306-cac8e6b3c1ee.png)
 
-And here is the flag Flag: `flag{3v0lv3_or_d13}`
+And here is the Flag: `flag{3v0lv3_or_d13}`
 
 ---
 ## Information Thieves
@@ -30,6 +30,8 @@ let's download .git and see what we have
 
 ![download](https://user-images.githubusercontent.com/34393428/70563927-2ed76d00-1b5d-11ea-8bec-f502bc9d6db9.png)
 ![fck](https://user-images.githubusercontent.com/34393428/70564144-9ab9d580-1b5d-11ea-9ed6-bf3d50a52d54.png)
+![dd](https://user-images.githubusercontent.com/34393428/70565852-f46fcf00-1b60-11ea-9492-2de57d12de86.png)
+
 We found `$secret_key = 'be607453caada6a05d00c0ea0057f733';` i have tried to submit the Secret Key but it was wrong 
 so i used [hash analyzer](https://crackstation.net/) be607453caada6a05d00c0ea0057f733	md5(md5) ->	lifeafterdeath
 
