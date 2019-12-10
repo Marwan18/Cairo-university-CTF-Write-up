@@ -31,6 +31,7 @@ let's download .git and see what we have
 ![download](https://user-images.githubusercontent.com/34393428/70563927-2ed76d00-1b5d-11ea-8bec-f502bc9d6db9.png)
 
 let’s see what inside bdc4b91
+
 ![fck](https://user-images.githubusercontent.com/34393428/70564144-9ab9d580-1b5d-11ea-9ed6-bf3d50a52d54.png)
 ![dd](https://user-images.githubusercontent.com/34393428/70565852-f46fcf00-1b60-11ea-9492-2de57d12de86.png)
 
