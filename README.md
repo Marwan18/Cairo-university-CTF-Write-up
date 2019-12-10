@@ -1,6 +1,6 @@
 # Cairo-university-CTF-Write-up
 
-#### There was two easy web Challenges so let's see it 
+#### There were two easy web Challenges so let's see them
 
 ## Watch me
 After opening the challenge it redirect us to an image [watch-me/mr-robot-safety-tips-featured.jpg](http://54.93.122.202/watch-me/mr-robot-safety-tips-featured.jpg)
